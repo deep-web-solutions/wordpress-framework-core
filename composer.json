@@ -1,6 +1,7 @@
 {
   "name": "deep-web-solutions/wp-framework-core",
   "type": "library",
+  "abandoned": "ahegyes/wp-framework-core",
 
   "description": "A set of related classes to kick start WordPress development.",
   "keywords": ["wordpress", "framework", "Deep Web Solutions", "core"],

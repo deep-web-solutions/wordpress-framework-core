@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> **This package is no longer maintained.** Superseded by [`ahegyes/wp-framework-core`](https://github.com/ahegyes/wordpress-framework) as part of the v2 framework rewrite. The repository remains available for historical reference.
+
+---
+
 # DWS WordPress Framework - Core
 
 **Contributors:** Antonius Hegyes, Deep Web Solutions GmbH  
