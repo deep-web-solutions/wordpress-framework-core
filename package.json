@@ -13,7 +13,7 @@
     "url": "https://github.com/deep-web-solutions/wordpress-framework-core/issues"
   },
   "devDependencies": {
-    "grunt": "^1.3.0",
+    "grunt": "^1.5.3",
     "grunt-glotpress": "^0.2.2",
     "grunt-text-replace": "^0.4.0",
     "grunt-wp-i18n": "^1.0.3",
